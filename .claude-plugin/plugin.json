@@ -1,0 +1,21 @@
+{
+  "name": "smart-role-roleplay-skills",
+  "description": "Build consistent, high-quality virtual customers, soft skills, and roleplay scenarios in Smart Role. Use alongside the Smart Role MCP connector.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Smart Role",
+    "email": "support@smartrole.ai",
+    "url": "https://smartrole.ai"
+  },
+  "homepage": "https://smartrole.ai",
+  "repository": "https://github.com/smartrole/smartrole-claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "smart role",
+    "sales roleplay",
+    "customer service training",
+    "soft skills",
+    "virtual customer",
+    "scorecard"
+  ]
+}
