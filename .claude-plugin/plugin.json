@@ -10,6 +10,7 @@
   "homepage": "https://smartrole.ai",
   "repository": "https://github.com/smartrole/smartrole-claude-skills",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "smart role",
     "sales roleplay",
